@@ -1,0 +1,64 @@
+The fields utilised in this screener are as follows:
+
+Definition                                   : Explanation 
+==================================================================================================
+Ticker                                       : Stock Ticker
+Price                                        : Cost per share of the stock
+Market Capitalisation                        : Number of shares x Price of each share
+Number of Share Available                    : Max Number of shares available for investor to purchase of company
+Yearly Low Price                             : 52 Week Low Price
+Yearly High Price                            : 52 Week High Price
+50 Day Moving Average                        : Average Stock Price for 50 day period
+200 Day Moving Average                       : Average Stock Price for 200 day period
+Acquirers Multiple                           : Enterprise Value / Profits (or Earnings)
+Current Ratio                                : Current Assets / Current Liabilities
+Enterprise Value                             : Market Capitalisation + Debt - Cash
+EPS                                          : Earnings per Share
+Enterprise Value to EBITDA                   : Enterprise Value / EBITDA
+Enterprise Value to Operating Cash Flow      : Enterprise Value / Operating Cash Flow
+Enterprise Value to Revenue                  : Enterprise Value / Revenue
+P/E ratio trailing                           : Price / Earnings ratio (trailing)
+P/E ratio forward                            : Price / Earnings ratio (forward)
+Price to Sales                               : Amount paid per unit of sales
+Price to Book                                : Amount paid per unit of equity
+Dividend Yield                               : Dividend yield for the prior payout 
+Dividend Rate                                : Dividend amount for the prior payout
+Ex Dividend Date                             : Final day that investor could purchase share to receive Dividend
+Last Dividend Value                          : Dividend value of prior distribution
+Payout Ratio                                 : How much of a company's earnings are paid to shareholders
+Book Value                                   : Net difference between that company's total assets and total liabilities
+Book Value per Share                         : Cost of equity per share
+Cash                                         : Cash Listed on the Balance Sheet
+Cash Per Share                               : Total Cash available per share
+Cash to Market Capitalisation                : Total Cash available relative to total share Market Capitalisation
+Cash to Debt                                 : Cash / Debt
+Debt                                         : Debt Listed on the Balance Sheet
+Debt to Market Capitalisation                : Total Debt relative to total share Market Capitalisation
+Debt to Equity Ratio                         : Debt / (Assets - Liabilities)
+Quick Ratio                                  : (Current assets - inventory) / Current liabilities
+Return on Assets                             : Income / Assets
+Return on Equity                             : Income / Equity
+Tota Assets                                  : All assets listed on balance Sheet
+EBITDA                                       : Earnings before Interest, Tax, Depreciation and Amortization
+EBITDA Margins                               : Company's operating profit as a percentage of its revenue
+EBITDA per share                             : Earnings before Interest, Tax, Depreciation and Amortization / per share
+Earnings Growth                              : Annual compound annual growth rate (CAGR) of earnings from investments
+Gross Margins                                : Net sales - COGS (Cost of Goods Sold)
+Gross Profit                                 : Revenue - COGS (Cost of Goods Sold)
+Gross Profit per share                       : (Revenue - COGS) / share
+Net Income                                   : Gross profit - expenses
+Net Income per share                         : (Gross profit - expenses) / share
+Operating Margin                             : Operating Income / Revenue
+Profit Margin                                : (Revenue - Cost) / Revenue
+Revenue                                      : Value of all gooss and services recognised by a company
+Revenue growth                               : Increase (or decrease) in company's revenue over time
+Revenue per share                            : Total Revenue / Number of shares
+Free Cash Flow (FCF)                         : Cash inflows - (operating expenses + capital expenditures)
+Free Cash Flow to Market Capitalisation      : Free Cash Flow / Market Capitalisation
+Free Cash Flow per share                     : Free Cash Flow / Number of shares
+Operating Cash Flow (OCF)                    : Cash flow from operating activities
+Operating Cash Flow to Revenue Ratio         : Operating Cash Flow / Revenue
+Operating Cash Flow to Market Capitalisation : Operating Cash Flow / Market Capitalisation
+Operating Cash Flow per share                : Operating Cash Flow / Number of shares
+Free Cash Flow to Enterprise Value           : Free Cash Flow / Enterprise Value
+Operating Cash Flow to Enterprise Value      : Operating Cash Flow / Enterprise Value
